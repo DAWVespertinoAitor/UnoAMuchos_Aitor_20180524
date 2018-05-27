@@ -1,0 +1,12 @@
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\dao\IPersonaDAO.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\daofactory\DAOFactory.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\beans\Persona.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\dao\PersonaDAO.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\persistencia\HibernateUtil.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\controllers\Conclusion.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\controllers\Eleccion.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\dao\LibroDAO.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\controllers\Controlador.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\beans\Libro.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\dao\ILibroDAO.java
+J:\Aplicaciones recuperacion\UnoAMuchos_Aitor_20180524\src\main\java\es\albarregas\daofactory\MySQLDAOFactory.java

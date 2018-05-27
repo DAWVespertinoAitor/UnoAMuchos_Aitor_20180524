@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<!-- Configuración de Hibernate -->
+<hibernate-configuration>
+  <!-- Para establecer la conexión a la BD y manejarla. Pueden existir varias, una por cada BD -->
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="hibernate.show_sql">true</property>
+    <property name="format_sql">true</property>
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    <property name="hibernate.connection.datasource">java:comp/env/jdbc/UAM</property>
+    <property name="hibernate.connection.pool_size">1</property>
+    <mapping resource="modelo/Persona.hbm.xml"/>
+    <mapping resource="modelo/Libro.hbm.xml"/>
+  </session-factory>
+</hibernate-configuration>
